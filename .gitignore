@@ -10,9 +10,6 @@
 *.db
 .vs/
 x64
-*.vcxproj
-*.filters
 *.user
-*.sln
 
 
