@@ -13,9 +13,8 @@ Requirements:
 	-After All Rounds Show Game Over The Print Game Results ..
 	 Then Ask The User If s/he Want To Play Again ?
 */
-	 //("Thank You")
 	 
-	// I love <Mam and Malak♥ & Marwan Pablo ....Kassam Star my past F..
+	
 
 
 enum enGame_Choice{ stone = 1 , paper = 2 , scissor = 3 };
