@@ -168,7 +168,7 @@ short ReadHowManyRounds() {
 	do {
 		printf("How Many Rounds %d to %d ?\n", 1, 10);
 		cin >> Game_Rounds;
-	} while (Game_Rounds < 1 && Game_Rounds > 10);
+	} while (Game_Rounds < 1 || Game_Rounds > 10);
 	return Game_Rounds;
 }
 
