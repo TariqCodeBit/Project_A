@@ -15,7 +15,7 @@ A fun game developed in C++ that lets you challenge the computer in a game of "R
 3. Open the command line and navigate to the folder containing the code.
 4. Run the following command to compile the code:
 ```bash
-   git clone https://github.com/TariqCodeBit/Project_A.git
+   git clone https://github.com/TariqCodeBit/RPS-Arena
 
 ```
 
@@ -46,7 +46,6 @@ All contributions are welcome to improve the code or add new features. Open an *
 
 ## Author and License
 - The game was developed by **Tarek**.  
-- This project is open source under the [MIT License](LICENSE).
 
 
  
