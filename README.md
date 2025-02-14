@@ -44,8 +44,7 @@ All contributions are welcome to improve the code or add new features. Open an *
 
 
 
-## Author and License
-- The game was developed by **Tarek**.  
-
+## Author
+- The Game was developed by **Tarek**.
 
  
